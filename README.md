@@ -1,5 +1,7 @@
 # git-fixauthor
 
+![OMG](https://raw.githubusercontent.com/mattn/git-fixauthor/master/omg.gif)
+
 Have you ever committed as different git author?
 
 ## Usage
