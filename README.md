@@ -6,10 +6,10 @@ Have you ever committed as different git author?
 
 ## Usage
 
-Don't worry, and calm down. Please drink a cup of water. Then, change the git author to real one. Next, git pull to get newest branch. And run this.
+Don't worry, and calm down. Please drink a cup of water. Then, change the git author and email to real one. Next, git pull to get newest branch. And run this.
 
 ```
-$ git fixauthor
+$ git fixauthor -name "Your Wrong Name"
 ```
 
 Pray that someone else don't git push after your git pull.
